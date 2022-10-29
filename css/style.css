@@ -51,7 +51,7 @@ body {
           transform: translateX(-50%);
   width: 50px;
   height: 5px;
-  background-color: #10e7f4;
+  background-color: #E00C00;
 }
 
 /*header section*/
@@ -405,11 +405,11 @@ a:focus {
 }
 
 .feature_section .feature_container .box:hover .img-box {
-  border: 1px solid #10e7f4;
+  border: 1px solid #E00C00;
 }
 
 .feature_section .feature_container .box:hover .img-box svg {
-  fill: #10e7f4;
+  fill: #E00C00;
 }
 
 .discount_section {
@@ -438,7 +438,7 @@ a:focus {
 }
 
 .discount_section .detail-box h2 span {
-  color: #10e7f4;
+  color: #E00C00;
 }
 
 .discount_section .detail-box p {
@@ -448,15 +448,15 @@ a:focus {
 .discount_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #10e7f4;
-  border: 1px solid #10e7f4;
+  background-color: #E00C00;
+  border: 1px solid #E00C00;
   color: #ffffff;
   margin-top: 35px;
 }
 
 .discount_section .detail-box a:hover {
   background-color: transparent;
-  color: #10e7f4;
+  color: #E00C00;
 }
 
 .discount_section .img-box img {
@@ -526,7 +526,7 @@ a:focus {
 }
 
 .health_section .box .btn_container a:hover {
-  background-color: #10e7f4;
+  background-color: #E00C00;
   color: #ffffff;
   border-color: transparent;
 }
@@ -562,7 +562,7 @@ a:focus {
 }
 
 .health_section .box .detail-box .text h6.price span {
-  color: #10e7f4;
+  color: #E00C00;
 }
 
 .health_section .owl-carousel .owl-nav.disabled {
@@ -581,7 +581,7 @@ a:focus {
 }
 
 .health_section .owl-carousel .owl-nav.disabled > div:hover {
-  background-color: #10e7f4;
+  background-color: #E00C00;
 }
 
 .health_section .owl-carousel .owl-nav.disabled .owl-prev {
@@ -692,7 +692,7 @@ a:focus {
   width: 20px;
   height: 20px;
   opacity: 1;
-  background-color: #10e7f4;
+  background-color: #E00C00;
   border-radius: 100%;
   position: relative;
 }
@@ -816,14 +816,14 @@ a:focus {
 .info_section .info_news form button {
   display: inline-block;
   padding: 7px 60px;
-  background-color: #10e7f4;
-  border: 1px solid #10e7f4;
+  background-color: #E00C00;
+  border: 1px solid #E00C00;
   color: #ffffff;
 }
 
 .info_section .info_news form button:hover {
   background-color: transparent;
-  color: #10e7f4;
+  color: #E00C00;
 }
 
 /* footer section*/
